@@ -1,5 +1,5 @@
 {
-  "name": "backend1",
+  "name": "backend_1+2",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -7,18 +7,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buithingochanb2111839/backend1.git"
+    "url": "git+https://github.com/buithingochanb2111839/B2111839_Bui_Thi_Ngoc_Han_BACKEND_2.git"
   },
   "author": "Han B2111839",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/buithingochanb2111839/backend1/issues"
+    "url": "https://github.com/buithingochanb2111839/B2111839_Bui_Thi_Ngoc_Han_BACKEND_2/issues"
   },
-  "homepage": "https://github.com/buithingochanb2111839/backend1#readme",
+  "homepage": "https://github.com/buithingochanb2111839/B2111839_Bui_Thi_Ngoc_Han_BACKEND_2#readme",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongodb": "^6.13.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.20.0",
