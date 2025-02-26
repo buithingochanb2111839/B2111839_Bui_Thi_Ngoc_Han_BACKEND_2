@@ -1,0 +1,32 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buithingochanb2111839/backend1.git"
+  },
+  "author": "Han B2111839",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buithingochanb2111839/backend1/issues"
+  },
+  "homepage": "https://github.com/buithingochanb2111839/backend1#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.1"
+  }
+}
